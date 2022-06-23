@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+//https://www.codechef.com/submit/SUMTRIAN
 #define rep(i, a, b) for(int i = a;i <= b; i++)
 const int N = 110;
 using ll = long long;
